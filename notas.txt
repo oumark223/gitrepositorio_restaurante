@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Versión 1.0 de menu.html desde master
+=======
+Versión 1 de menu.html
+>>>>>>> pruebas2
 Revisar por el jefe
